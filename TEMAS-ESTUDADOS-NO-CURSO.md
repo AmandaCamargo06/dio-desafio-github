@@ -73,7 +73,7 @@ Ciclo de vida dos arquivos no Git
 
 Introdução ao GitHub
 
--Trabalhando com o GitHub
+- Trabalhando com GitHub
 
 Resolvendo conflitos 
 
