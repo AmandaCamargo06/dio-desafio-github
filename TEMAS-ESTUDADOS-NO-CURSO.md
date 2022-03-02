@@ -33,7 +33,8 @@ Conceitos inici sobre estrutura de dados, arrays e registro
 
 Entenda o que são Listas, Pilhas e Filas
 
--Introdução e Objetivos 
+Introdução e Objetivos
+
 - O que são listas
 - O que são pilhas 
 - O que são filas
