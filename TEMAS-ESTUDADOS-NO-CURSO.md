@@ -22,9 +22,9 @@ Introdução ao Portugo
 - Trabalhando com laços de repetição em Portugol
 - Aplicação prática com matrizes e vetores
 
-#Aprenda o que são Estruturas de Dados e Algoritmos 
+Aprenda o que são Estrutura de Dados e Algoritmos
 
-#Conceitos iniciais sobre estrutura de dados, arrays e registor
+Conceitos inici sobre estrutura de dados, arrays e registro
 
 - Introdução e Objetivos 
 - O que é estrutura de dados 
